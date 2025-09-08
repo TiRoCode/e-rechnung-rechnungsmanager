@@ -55,7 +55,7 @@ Bibliotheken: libs/fpdi (inklusive fpdf.php)
 
 1. Klone das Repository:
    ```bash
-   git clone https://github.com/your-username/rechnungsmanager.git
+   git clone https://github.com/eMakerStudio/e-rechnung-rechnungsmanager.git
    ```
 2. Verschiebe das Projektverzeichnis in das Stammverzeichnis deines Webservers (z. B. `/var/www/html`).
 3. Stelle sicher, dass die Ordner im Verzeichnis `output/` beschreibbar sind:
