@@ -120,8 +120,8 @@ Möchtest du dieses Projekt verbessern? So kannst du mithelfen:
 
 Dieses Projekt ist unter der [MIT-Lizenz](LICENSE) lizenziert.
 
-## Life testen
-[https://barbarahohensee.de/e-rechnung](https://barbarahohensee.de/e-rechnung/)
+## Live testen
+not available
 
 ## Hilfe bei der Installation
 Ich bringe das Programm auf deinen Server und mache auf Wunsch Anpassungen am Rechnungs-Template
