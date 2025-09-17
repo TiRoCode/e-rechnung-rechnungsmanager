@@ -1,0 +1,13 @@
+services:
+  app:
+    image: jkaninda/nginx-php-fpm:8.3
+    container_name: e-rechnung
+    restart: unless-stopped
+    user: www-data # Optional for production
+    volumes:
+      # Project root
+      - ./code:/var/www/html
+    ports:
+      - "80:80"
+    networks:
+      - default
