@@ -1,1 +1,5 @@
-.inv
+/output/e-invoices/
+/output/invoices/
+/output/invoices-signed/
+/output/signatures/
+/output/signed_pdfs/
