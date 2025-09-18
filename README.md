@@ -80,16 +80,16 @@ Bibliotheken: libs/fpdi (inklusive fpdf.php)
 
 ## Screenshots
 ### Startseite
-![Screenshot des Rechnungsformulars](startseite.png?text=Startseite)
+![Screenshot des Rechnungsformulars](/example-picture/startseite.png?text=Startseite)
 
 ### Rechnungsformular
-![Screenshot des Rechnungsformulars](rechnung-erstellen.png?text=Rechnungsformular)
+![Screenshot des Rechnungsformulars](/example-picture/rechnung-erstellen.png?text=Rechnungsformular)
 
 ### Ausgangsrechnungen
-![Screenshot des Dashboards](rechnungsliste.png?text=Ausgangsrechnungen)
+![Screenshot des Dashboards](/example-picture/rechnungsliste.png?text=Ausgangsrechnungen)
 
 ### Eingangsrechnungen
-![Screenshot des Dashboards](eingangsrechnungen.png?text=Eingangsrechnungen)
+![Screenshot des Dashboards](/example-picture/eingangsrechnungen.png?text=Eingangsrechnungen)
 
 ## Warum dieses Tool?
 
